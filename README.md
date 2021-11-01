@@ -4,7 +4,7 @@ Based on: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 
 ## TODO:
 
-- :white_square: Add Tests 
+- Add Tests 
 
 ## License
 
